@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Task\mdplp-08\Env
+set VIRTUAL_ENV=D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Group Task\mdplp-08\Env
 
 if not defined PROMPT set PROMPT=$P$G
 

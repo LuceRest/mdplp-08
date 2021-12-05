@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Task\mdplp-08\Env"
+VIRTUAL_ENV="D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Group Task\mdplp-08\Env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

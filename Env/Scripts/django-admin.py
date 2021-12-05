@@ -1,4 +1,4 @@
-#!D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Task\mdplp-08\Env\Scripts\python.exe
+#!D:\Kuliah Online\Metodologi Desain Perangkat Lunak Praktik\8th Meet (Monday, November, 29th 2021)\Group Task\mdplp-08\Env\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
